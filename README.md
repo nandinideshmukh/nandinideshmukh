@@ -2,7 +2,7 @@
 
 I'm **Nandini Deshmukh**, a passionate tech enthusiast and an aspiring Machine Learning Engineer. 🚀  <br>
 🎓 Second year Computer Engineering student at **Pune Institute of Computer Technology (PICT)**  .<br>
-🧠 Good at **Data Structures and Algorithms (DSA)**  and **OOP** .<br>
+🧠 Good at **Data Structures and Algorithms (DSA)**  , **OOP**,**ML**  and **Computer Vision**.<br>
 💡 Exploring and building projects in ML, Deep Learning, and AI.<br>
 🛠️ Experienced in **Flask**, **MySQL**, and **PostgreSQL** for backend development  <br>
 💻 Languages : **Java**, **C++**, and **Python**  <br>
