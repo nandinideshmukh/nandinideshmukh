@@ -1,17 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Nandini Deshmukh  
 
-I'm **Nandini Deshmukh**, a passionate tech enthusiast and an aspiring Machine Learning Engineer. 🚀  <br>
-🎓 Second year Computer Engineering student at **Pune Institute of Computer Technology (PICT)**  .<br>
-🧠 Good at **Data Structures and Algorithms (DSA)**  , **OOP**,**ML**  and **Computer Vision**.<br>
-💡 Exploring and building projects in ML, Deep Learning, and AI.<br>
-🛠️ Experienced in **Flask**, **MySQL**, and **PostgreSQL** for backend development  <br>
-💻 Languages : **Java**, **C++**, and **Python**  <br>
+🚀 **AI | Machine Learning | Generative AI | Agentic Systems Enthusiast**
 
-  <br>📫 Connect With Me<br>
+💻 **Languages:**  C++,Java, Python, TypeScript  
+🧠 **Backend:** Node.js, FastAPI, Express.js  
+🗄️ **Databases:** SQLite, PostgreSQL, Vector Databases  , MongoDB  
+📊 **Data Warehouse and CC :** Google BigQuery  , Cloudinary
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nandini-deshmukh-0514a5297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 🧮 [LeetCode](https://leetcode.com/u/nandinideshmuk6/)  
-- 🎯 [CodeChef](https://www.codechef.com/users/nandeshmukh)  
-- 🎯 [Gmail](deshmukh.nan@gmail.com)
+---
 
+## 🧠 About Me
+
+I am an engineering student passionate about building **intelligent, scalable, and autonomous systems**.  
+My interests lie at the intersection of **AI/ML, Generative AI, Agentic AI, and Backend Engineering**.
+
+I enjoy designing **end-to-end systems** — from data processing and model training to backend APIs and deployment.
+
+---
+
+## 🚀 AI / ML Projects
+
+
+🔹 **RAG (Retrieval-Augmented Generation) System**  
+- Vector-based document retrieval  
+- LLM-powered contextual answering  
+- Streamlit-based interactive UI  
+- 🔗 GitHub: https://github.com/nandinideshmukh/Document_Assistant 
+
+
+🔹 **Machine Learning models**  
+- 🔗 GitHub: https://github.com/nandinideshmukh/ML
+
+---
+
+## 🧩 Backend Projects
+- A real-time chatting system built using FastAPI with WebSocket communication, JWT authentication, and database management using SQLAlchemy. <br>
+ https://github.com/nandinideshmukh/ChatSystem-FastApi <br>
+
+- DocGram is an intelligent healthcare platform that allows doctors to manage patient records, upload eye scans, and get AI-powered disease predictions. Through seamless integration of cloud storage (Cloudinary) <br>
+https://github.com/nandinideshmukh/EyeAssistant <br>
+
+- Backend for ride , vehicle and user managment. <br>
+https://github.com/nandinideshmukh/CarPoolingSystem <br>
+
+
+## C++ OS directory simulation using DFS and unordered_map 
+- https://github.com/nandinideshmukh/OS_FOLDER_SIMULATION
+
+## 📫 Connect With Me
+
+- 🔗 **LinkedIn:**  
+  https://www.linkedin.com/in/nandini-deshmukh-0514a5297  
+
+- 🧮 **LeetCode:**  
+  https://leetcode.com/u/nandinideshmuk6/  
+
+- 🎯 **CodeChef:**  
+  https://www.codechef.com/users/nandeshmukh  
+
+- 📧 **Gmail:**  
+  deshmukh.nan@gmail.com  
+
+---
 
