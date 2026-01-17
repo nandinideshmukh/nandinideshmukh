@@ -1,22 +1,8 @@
-# 👋 Hi, I'm Nandini Deshmukh  
+# 👋 **Hi, I'm Nandini Deshmukh** 
 
-🚀 **AI | Machine Learning | Generative AI | Agentic Systems Enthusiast**
+<img style="width:100%;height:3px;" src="https://github.com/NuroDev/NuroDev/blob/6f0d0a8cff5c44aea2d4f24d949f692ee54002de/bar.gif" />
 
-💻 **Languages:**  C++,Java, Python, TypeScript  
-🧠 **Backend:** Node.js, FastAPI, Express.js  
-🗄️ **Databases:** SQLite, PostgreSQL, Vector Databases  , MongoDB  
-📊 **Data Warehouse and CC :** Google BigQuery  , Cloudinary
-
----
-
-## 🧠 About Me
-
-I am an engineering student passionate about building **intelligent, scalable, and autonomous systems**.  
-My interests lie at the intersection of **AI/ML, Generative AI, Agentic AI, and Backend Engineering**.
-
-I enjoy designing **end-to-end systems** — from data processing and model training to backend APIs and deployment.
-
----
+# ⚽ *Machine Learning | Generative AI | System Design |Football*
 
 ## 🚀 AI / ML Projects
 
@@ -46,6 +32,31 @@ https://github.com/nandinideshmukh/CarPoolingSystem <br>
 
 ## C++ OS directory simulation using DFS and unordered_map 
 - https://github.com/nandinideshmukh/OS_FOLDER_SIMULATION
+
+--- 
+# ⚡️ Technology 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,nodejs,fastapi,postgresql" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlite,postgresql,mongodb" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vector%20Database-Embedding%20Search-blueviolet?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+</p>
 
 ## 📫 Connect With Me
 
