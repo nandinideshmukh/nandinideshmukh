@@ -6,31 +6,37 @@
 
 ## 🚀 AI / ML Projects
 
+🌟 **AI Based Diagnostic Tool (Crazy Project!)**  
+- Trained ML model without overfitting.
+- Stored embeddings vector Database
+- Anomaly Detection and Gradcam Visualization.
+- 🔗 GitHub: https://github.com/nandinideshmukh/Breast_cancer_prediction
 
-🔹 **RAG (Retrieval-Augmented Generation) System**  
+
+🌟 **RAG (Retrieval-Augmented Generation) System**  
 - Vector-based document retrieval  
 - LLM-powered contextual answering  
 - Streamlit-based interactive UI  
 - 🔗 GitHub: https://github.com/nandinideshmukh/Document_Assistant 
 
 
-🔹 **Machine Learning models**  
+🌟 **Machine Learning models**  
 - 🔗 GitHub: https://github.com/nandinideshmukh/ML
 
 ---
 
 ## 🧩 Backend Projects
-- A real-time chatting system built using FastAPI with WebSocket communication, JWT authentication, and database management using SQLAlchemy. <br>
+🌟 A real-time chatting system built using FastAPI with WebSocket communication, JWT authentication, and database management using SQLAlchemy. <br>
  https://github.com/nandinideshmukh/ChatSystem-FastApi <br>
 
-- DocGram is an intelligent healthcare platform that allows doctors to manage patient records, upload eye scans, and get AI-powered disease predictions. Through seamless integration of cloud storage (Cloudinary) <br>
+🌟 DocGram is an intelligent healthcare platform that allows doctors to manage patient records, upload eye scans, and get AI-powered disease predictions. Through seamless integration of cloud storage (Cloudinary) <br>
 https://github.com/nandinideshmukh/EyeAssistant <br>
 
-- Backend for ride , vehicle and user managment. <br>
+🌟 Backend for ride , vehicle and user managment. <br>
 https://github.com/nandinideshmukh/CarPoolingSystem <br>
 
 
-## C++ OS directory simulation using DFS and unordered_map 
+## 🌟 C++ OS directory simulation using DFS and unordered_map 
 - https://github.com/nandinideshmukh/OS_FOLDER_SIMULATION
 
 --- 
